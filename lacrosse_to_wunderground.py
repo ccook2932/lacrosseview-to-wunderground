@@ -4,12 +4,12 @@ import requests
 import json
 import datetime
 
-email = "La Crosse View Account Email"
-password = "La Crosse View Password"
-station_id = "WU PWS ID"
-station_key = "WU PWS Key"
-api_key = "WU Account API Key"
-device_name_auctual = "the name of the device you want to query"
+email = ccook2@windstream.net
+password = $Nancy1951a
+station_id = KGACAIRO70
+station_key = CgyYJ5e2
+api_key =2029d66e3dc24b64a9d66e3dc22b6481
+device_name_auctual = Katniss7
 
 
 def lacrosse_login(email, password):
